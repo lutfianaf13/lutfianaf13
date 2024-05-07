@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lutfianaf13
-- 👀 I’m interested in coding HTML, CSS, and JavaScript. I was an Software Implementer and now I am Jr. Front End Developer using Vue JS in the development of integrated system.
-- 🌱 I’m currently learning about Vue JS, javascript, and Test Automation. 
-- 💞️ I’m looking to collaborate on team which lead me to be a good Quality Assurance.
+- 👀 I’m interested in coding HTML, CSS, and JavaScript. I was an Software Implementer and now I am Project Manager who will always collaborate with team mate and clients.
+- 💞️ I’m looking to collaborate on team which lead me to be a good Project Manager.
 - 📫 How to reach me ...
 
 <!---
